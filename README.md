@@ -1,3 +1,7 @@
+Airbnb Analysis
+
+
+
 Introduction
 
 Airbnb delves into a comprehensive exploration of Airbnb data. Airbnb has revolutionized the travel and property management industry, making it crucial to analyze its data to gain insights into pricing, availability patterns, and location-based trends. This project employs MongoDB Atlas, Streamlit, and data visualization techniques to provide an in-depth analysis.
@@ -31,13 +35,7 @@ pip install streamlit
 pip install plotly
 Usage
 
-To use this project, follow these steps:
 
-Clone the repository: git clone https://github.com/gopiashokan/Airbnb-Analysis.git
-Install the required packages: pip install -r requirements.txt
-Run the Streamlit app: streamlit run app.py
-Access the app in your browser at http://localhost:8501
-Features
 
 Data Collection and Preprocessing
 
